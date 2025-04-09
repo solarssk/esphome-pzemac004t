@@ -55,7 +55,7 @@ wifi_password: "YourWiFiPassword"
 ## 🚀 Usage Instructions
 
 1. **Flashing the Firmware**:
-   - Use ESPHome to compile and upload the esp06-pzemac.yaml configuration to your ESP8266 device.
+   - Use ESPHome to compile and upload the pzmac004t.yaml configuration to your ESP8266 device.
 
 2. **Hardware Setup**:
    - Connect the PZEM-004T module to the ESP8266 as per the wiring instructions above.
